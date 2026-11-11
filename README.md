@@ -15,4 +15,13 @@ An AI experience that matches customers with their Beauty Twin and recommends pr
 
 ---
 
+### [KANALLI — Before It Was Yours, It Was Hers.](kanalli-the-living-heirloom.md)
+*Luxury Brand Experience Design · Real client work · India · 2026*
+
+Four generations, one inherited story. Real client work, with *The Living Heirloom* as the proposed AI-powered brand experience: one emotional insight built into a repeatable AI content system.
+
+[![Before It Was Yours, It Was Hers.](images/01-hero-before-it-was-yours.jpg)](kanalli-the-living-heirloom.md)
+
+---
+
 **Portfolio:** https://www.anubhamadhandapani.com/portfolio
