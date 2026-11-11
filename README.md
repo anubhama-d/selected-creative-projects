@@ -24,4 +24,13 @@ Four generations, one inherited story. Real client work, with *The Living Heirlo
 
 ---
 
+### [VIRBAC C.E.T. — Max's New Favorite.](virbac-maxs-new-favorite.md)
+*AI Product Advertising Film · Self-initiated spec film · 2026*
+
+A playful AI-powered product advertising film for Virbac C.E.T. Enzymatic Toothpaste. A talking request button becomes the narrative engine, turning a product benefit into a moment of love and connection. Speculative work, not commissioned by Virbac.
+
+[![Max's New Favorite](images/01-hero-maxs-new-favorite.jpg)](virbac-maxs-new-favorite.md)
+
+---
+
 **Portfolio:** https://www.anubhamadhandapani.com/portfolio
