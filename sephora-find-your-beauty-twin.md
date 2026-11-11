@@ -14,6 +14,24 @@
 
 ---
 
+## AI Campaign Film
+
+### Find Your Beauty Twin — AI Campaign Film
+
+An AI-driven visual interpretation of the Find Your Beauty Twin concept, bringing the beauty personalization experience to life through motion.
+
+<p align="center">
+  <a href="https://youtube.com/shorts/RNYyr_6_vSM">
+    <img src="https://img.youtube.com/vi/RNYyr_6_vSM/hqdefault.jpg" alt="Watch: Find Your Beauty Twin — AI Campaign Film" width="360">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://youtube.com/shorts/RNYyr_6_vSM"><b>▶ Watch the film on YouTube</b></a>
+</p>
+
+---
+
 ## Challenge & Insight
 
 **Challenge**<br>
